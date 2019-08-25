@@ -5,11 +5,12 @@ Config = {
         'height': 500,
         'width': 500,
         'fps': 30,
+        'bumper_size': 25
     },
     'snake': {
         'height': 20,
         'width': 20,
-        'speed': 10
+        'speed': 1
     },
     'apple': {
         'width': 20,
